@@ -1,0 +1,18 @@
+# database history
+D:\YGO Games\ProjectIgnis\expansions-inactive\prerelease-dp29.cdb
+D:\YGO Games\ProjectIgnis\expansions-inactive\release-lede.cdb
+D:\YGO Games\ProjectIgnis\expansions-inactive\cards.delta.cdb
+D:\YGO Games\ProjectIgnis\expansions-inactive\cards-unofficial.delta.cdb
+D:\YGO Games\ProjectIgnis\expansions-inactive\cards-unofficial-new.cdb
+D:\YGO Games\ProjectIgnis\expansions-inactive\prerelease-info.cdb
+D:\YGO Games\ProjectIgnis\expansions-inactive\prerelease-cards-rush.cdb
+D:\YGO Games\ProjectIgnis\expansions-inactive\prerelease-vjump-promos.cdb
+D:\YGO Games\ProjectIgnis\expansions\card.cdb
+D:\YGO Games\ProjectIgnis\expansions-inactive\cards-skills.delta.cdb
+D:\YGO Games\ProjectIgnis\expansions-inactive\curated\anime-arts.cdb
+D:\YGO Games\Yugioh Asset Creation\cdbs\VG.cdb
+D:\YGO Games\ProjectIgnis\expansions\cards-unofficial.cdb
+D:\YGO Games\ProjectIgnis\expansions-inactive\curated\equipspell.cdb
+D:\YGO Games\ProjectIgnis\expansions\goat-entries.cdb
+D:\YGO Games\ProjectIgnis\expansions\cards-skills.cdb
+# script history
