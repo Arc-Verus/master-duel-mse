@@ -35,7 +35,7 @@ This list of instructions will assume you have a .cdb of cards you want to conve
 11. Inside the "Format" section, paste this: `{to_string(to_int(card.gamecode))}.png`, if extracting to MDPro2, change out ".png" to ".jpg"
 12. Make sure "Entire Set" is select and hit OK, and find an empty folder to save to.
 13. Your images will now begin saving This process will take a while per set, and the Program may appear to hang, this is normal, if you want to see the progress of your images saving, go to the folder you've saved to in order to see progress.
-14. After its done, wipe all images inside the "pics" folder of your EDOPRO, or the "picture/card" folder inside of MDPro2
+14. After its done, wipe all images inside the "pics" folder of your EDOPRO, or the "picture/card" folder inside of MDPro2, and paste your new images in said folder
 
 # Some of my Pendulum cards look weird.
 
