@@ -14,7 +14,7 @@ If you already have a list of card images (without borders) named by their card 
 7. Click the "Asset List" tab in AssetStudio, you should now see a large list of card images.
 8. Go to Filter Type and select either "Sprite" or "Texture2D", doesn't matter which as every card image is duplicated as both a Sprite and a 2D Texture.
 9. Afterwards to go Export > Filtered Assets and save all the images to a folder, and wait for the process to complete.
-10. After this, copy all of the named images to your copy of this project's data\yugioh-master-duel.mse-style\imagecode
+10. After this, copy all of the named images to your copy of this project's `data\yugioh-master-duel.mse-style\imagecode` (if an imagecode folder does not exist, create one.)
 
 These will be your card images that you will load up.
 
