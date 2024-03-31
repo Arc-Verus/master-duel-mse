@@ -23,7 +23,7 @@ These will be your card images that you will load up.
 This list of instructions will assume you have a .cdb of cards you want to convert into images, if you have EDOPRO you'll likely have them in the "expansions" folder.
 
 1. Download this Repository
-2. Go to "fonts" and install all the fonts you see inside this folder, as they are required for Magic Set Editor to render the text.
+2. Go to the "install these fonts" folder and install all the fonts you see inside this folder, as they are required for Magic Set Editor to render the text.
 3. After having downloaded this repository and extracted it, you'll want to go to DataEditorX and run DataEditorX.exe
 4. in DataEditorX, File > Open, and select your desired cdb, you should see a list of cards now.
 5. in DataEditorX, go to MSE(M) > Save All As MSE-set
